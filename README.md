@@ -11,4 +11,4 @@ Entusiasta de PC e gamer, começando minha jornada no mundo do código.
 
 - [x] Criar minha conta no GitHub
 - [x] Meu primeiro repositório
-- [ ] Meu primeiro Pull Request
+- [x] Meu primeiro Pull Request 🎉
